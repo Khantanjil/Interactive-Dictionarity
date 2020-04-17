@@ -1,0 +1,2 @@
+# Interactive-Dictionarity
+ignore
